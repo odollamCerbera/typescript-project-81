@@ -2,7 +2,7 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "Form Generator",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "build": "rm -rf ./dist && tsc",
     "exec": "npx tsx ./src/index.ts",
